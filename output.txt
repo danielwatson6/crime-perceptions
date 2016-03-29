@@ -1,0 +1,1143 @@
+Neighborhood: Panama Pacifico
+Crime witnesses:
+  Yes: 2
+  No: 3
+Patrols reported:
+  Yes: 4
+  No: 1
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 3, 0, 0, 2, 0, 0, 0, 0, 0]
+    Average: 3.2
+  Gun crime:
+    Frequencies: [1, 1, 1, 0, 2, 0, 0, 0, 0, 0]
+    Average: 3.2
+  Assault:
+    Frequencies: [0, 2, 1, 0, 2, 0, 0, 0, 0, 0]
+    Average: 3.4
+  Mugging:
+    Frequencies: [1, 2, 0, 0, 2, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Knife crime:
+    Frequencies: [0, 0, 3, 0, 2, 0, 0, 0, 0, 0]
+    Average: 3.8
+Number of surveyed people: 5
+Safety perception per daytime:
+  7am:
+    Frequencies: [2, 1, 0, 0, 0, 0, 0, 0, 0, 2]
+    Average: 4.8
+  11pm:
+    Frequencies: [0, 0, 0, 1, 1, 1, 0, 0, 0, 2]
+    Average: 7.0
+  2pm:
+    Frequencies: [1, 2, 0, 0, 0, 0, 0, 0, 0, 2]
+    Average: 5.0
+Important things for safety:
+  Area monitored by police: 2
+  Other people nearby: 1
+  Knowledge of the area: 2
+  Well lit area: 2
+  Alarms: 1
+  Pleasant environment: 2
+  Close to a main road: 0
+  Gardens and open space: 0
+
+Neighborhood: Chorrillo
+Crime witnesses:
+  Yes: 3
+  No: 3
+Patrols reported:
+  Yes: 5
+  No: 1
+Safety perception per crime:
+  Burglary:
+    Frequencies: [1, 1, 0, 1, 2, 1, 0, 0, 0, 0]
+    Average: 3.83333333333
+  Gun crime:
+    Frequencies: [0, 1, 2, 0, 3, 0, 0, 0, 0, 0]
+    Average: 3.83333333333
+  Assault:
+    Frequencies: [0, 1, 1, 1, 3, 0, 0, 0, 0, 0]
+    Average: 4.0
+  Mugging:
+    Frequencies: [0, 1, 0, 1, 3, 0, 1, 0, 0, 0]
+    Average: 4.66666666667
+  Knife crime:
+    Frequencies: [1, 0, 1, 0, 4, 0, 0, 0, 0, 0]
+    Average: 4.0
+Number of surveyed people: 6
+Safety perception per daytime:
+  7am:
+    Frequencies: [2, 2, 1, 0, 1, 0, 0, 0, 0, 0]
+    Average: 2.33333333333
+  11pm:
+    Frequencies: [0, 1, 0, 1, 2, 0, 0, 0, 0, 2]
+    Average: 6.0
+  2pm:
+    Frequencies: [1, 0, 2, 1, 1, 0, 0, 1, 0, 0]
+    Average: 4.0
+Important things for safety:
+  Area monitored by police: 5
+  Other people nearby: 1
+  Knowledge of the area: 0
+  Well lit area: 2
+  Alarms: 1
+  Pleasant environment: 0
+  Close to a main road: 0
+  Gardens and open space: 0
+
+Neighborhood: Panama Viejo
+Crime witnesses:
+  Yes: 0
+  No: 3
+Patrols reported:
+  Yes: 3
+  No: 0
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 1, 2, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.66666666667
+  Gun crime:
+    Frequencies: [0, 2, 0, 0, 1, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Assault:
+    Frequencies: [0, 0, 2, 1, 0, 0, 0, 0, 0, 0]
+    Average: 3.33333333333
+  Mugging:
+    Frequencies: [0, 0, 3, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Knife crime:
+    Frequencies: [0, 1, 0, 1, 1, 0, 0, 0, 0, 0]
+    Average: 3.66666666667
+Number of surveyed people: 3
+Safety perception per daytime:
+  7am:
+    Frequencies: [2, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+    Average: 2.66666666667
+  11pm:
+    Frequencies: [1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  2pm:
+    Frequencies: [1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.66666666667
+Important things for safety:
+  Area monitored by police: 1
+  Other people nearby: 2
+  Knowledge of the area: 2
+  Well lit area: 1
+  Alarms: 0
+  Pleasant environment: 1
+  Close to a main road: 0
+  Gardens and open space: 0
+
+Neighborhood: San Francisco
+Crime witnesses:
+  Yes: 3
+  No: 5
+Patrols reported:
+  Yes: 6
+  No: 2
+Safety perception per crime:
+  Burglary:
+    Frequencies: [1, 3, 3, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.5
+  Gun crime:
+    Frequencies: [3, 2, 2, 0, 1, 0, 0, 0, 0, 0]
+    Average: 2.25
+  Assault:
+    Frequencies: [2, 3, 1, 2, 0, 0, 0, 0, 0, 0]
+    Average: 2.375
+  Mugging:
+    Frequencies: [2, 2, 3, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.375
+  Knife crime:
+    Frequencies: [4, 0, 3, 0, 1, 0, 0, 0, 0, 0]
+    Average: 2.25
+Number of surveyed people: 8
+Safety perception per daytime:
+  7am:
+    Frequencies: [4, 1, 2, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  11pm:
+    Frequencies: [0, 0, 2, 0, 1, 1, 3, 0, 0, 1]
+    Average: 6.0
+  2pm:
+    Frequencies: [1, 3, 3, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.5
+Important things for safety:
+  Area monitored by police: 7
+  Other people nearby: 5
+  Knowledge of the area: 3
+  Well lit area: 4
+  Alarms: 3
+  Pleasant environment: 1
+  Close to a main road: 1
+  Gardens and open space: 1
+
+Neighborhood: San Miguelito
+Crime witnesses:
+  Yes: 1
+  No: 3
+Patrols reported:
+  Yes: 4
+  No: 0
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 1, 1, 2, 0, 0, 0, 0, 0, 0]
+    Average: 3.25
+  Gun crime:
+    Frequencies: [0, 2, 1, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.75
+  Assault:
+    Frequencies: [0, 2, 2, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.5
+  Mugging:
+    Frequencies: [0, 1, 2, 1, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Knife crime:
+    Frequencies: [0, 2, 1, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.75
+Number of surveyed people: 4
+Safety perception per daytime:
+  7am:
+    Frequencies: [0, 0, 0, 0, 2, 0, 1, 0, 1, 0]
+    Average: 6.5
+  11pm:
+    Frequencies: [0, 0, 0, 0, 1, 0, 1, 1, 1, 0]
+    Average: 7.25
+  2pm:
+    Frequencies: [0, 0, 0, 0, 0, 2, 1, 0, 1, 0]
+    Average: 7.0
+Important things for safety:
+  Area monitored by police: 4
+  Other people nearby: 3
+  Knowledge of the area: 2
+  Well lit area: 4
+  Alarms: 1
+  Pleasant environment: 4
+  Close to a main road: 3
+  Gardens and open space: 1
+
+Neighborhood: Punta Pacifica 
+Crime witnesses:
+  Yes: 0
+  No: 1
+Patrols reported:
+  Yes: 1
+  No: 0
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  Gun crime:
+    Frequencies: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  Assault:
+    Frequencies: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  Mugging:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Knife crime:
+    Frequencies: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.0
+Number of surveyed people: 1
+Safety perception per daytime:
+  7am:
+    Frequencies: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  11pm:
+    Frequencies: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+    Average: 4.0
+  2pm:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+Important things for safety:
+  Area monitored by police: 1
+  Other people nearby: 1
+  Knowledge of the area: 1
+  Well lit area: 0
+  Alarms: 0
+  Pleasant environment: 0
+  Close to a main road: 0
+  Gardens and open space: 0
+
+Neighborhood: La Alameda
+Crime witnesses:
+  Yes: 0
+  No: 1
+Patrols reported:
+  Yes: 0
+  No: 1
+Safety perception per crime:
+  Burglary:
+    Frequencies: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.0
+  Gun crime:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Assault:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Mugging:
+    Frequencies: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  Knife crime:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+Number of surveyed people: 1
+Safety perception per daytime:
+  7am:
+    Frequencies: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+    Average: 9.0
+  11pm:
+    Frequencies: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+    Average: 5.0
+  2pm:
+    Frequencies: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+    Average: 9.0
+Important things for safety:
+  Area monitored by police: 1
+  Other people nearby: 1
+  Knowledge of the area: 0
+  Well lit area: 1
+  Alarms: 0
+  Pleasant environment: 0
+  Close to a main road: 0
+  Gardens and open space: 0
+
+Neighborhood: Clayton
+Crime witnesses:
+  Yes: 2
+  No: 29
+Patrols reported:
+  Yes: 30
+  No: 1
+Safety perception per crime:
+  Burglary:
+    Frequencies: [5, 13, 8, 4, 1, 0, 0, 0, 0, 0]
+    Average: 2.45161290323
+  Gun crime:
+    Frequencies: [15, 10, 4, 0, 2, 0, 0, 0, 0, 0]
+    Average: 1.83870967742
+  Assault:
+    Frequencies: [13, 11, 3, 4, 0, 0, 0, 0, 0, 0]
+    Average: 1.93548387097
+  Mugging:
+    Frequencies: [12, 10, 6, 1, 2, 0, 0, 0, 0, 0]
+    Average: 2.06451612903
+  Knife crime:
+    Frequencies: [13, 12, 3, 0, 3, 0, 0, 0, 0, 0]
+    Average: 1.96774193548
+Number of surveyed people: 31
+Safety perception per daytime:
+  7am:
+    Frequencies: [15, 11, 2, 1, 0, 0, 2, 0, 0, 0]
+    Average: 1.96774193548
+  11pm:
+    Frequencies: [4, 5, 7, 4, 4, 2, 2, 1, 2, 0]
+    Average: 3.96774193548
+  2pm:
+    Frequencies: [19, 3, 4, 2, 0, 1, 0, 1, 1, 0]
+    Average: 2.1935483871
+Important things for safety:
+  Area monitored by police: 21
+  Other people nearby: 22
+  Knowledge of the area: 18
+  Well lit area: 20
+  Alarms: 3
+  Pleasant environment: 14
+  Close to a main road: 3
+  Gardens and open space: 8
+
+Neighborhood: Arraijan 
+Crime witnesses:
+  Yes: 0
+  No: 1
+Patrols reported:
+  Yes: 1
+  No: 0
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+    Average: 4.0
+  Gun crime:
+    Frequencies: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  Assault:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Mugging:
+    Frequencies: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+    Average: 5.0
+  Knife crime:
+    Frequencies: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+Number of surveyed people: 1
+Safety perception per daytime:
+  7am:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  11pm:
+    Frequencies: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+    Average: 4.0
+  2pm:
+    Frequencies: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.0
+Important things for safety:
+  Area monitored by police: 1
+  Other people nearby: 0
+  Knowledge of the area: 0
+  Well lit area: 0
+  Alarms: 0
+  Pleasant environment: 0
+  Close to a main road: 0
+  Gardens and open space: 0
+
+Neighborhood: Atlapa
+Crime witnesses:
+  Yes: 0
+  No: 2
+Patrols reported:
+  Yes: 2
+  No: 0
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  Gun crime:
+    Frequencies: [0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.5
+  Assault:
+    Frequencies: [0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.5
+  Mugging:
+    Frequencies: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.5
+  Knife crime:
+    Frequencies: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.5
+Number of surveyed people: 2
+Safety perception per daytime:
+  7am:
+    Frequencies: [0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.5
+  11pm:
+    Frequencies: [0, 0, 0, 0, 0, 0, 0, 2, 0, 0]
+    Average: 8.0
+  2pm:
+    Frequencies: [0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+    Average: 4.5
+Important things for safety:
+  Area monitored by police: 1
+  Other people nearby: 2
+  Knowledge of the area: 2
+  Well lit area: 1
+  Alarms: 2
+  Pleasant environment: 1
+  Close to a main road: 1
+  Gardens and open space: 1
+
+Neighborhood: Costa del Esta
+Crime witnesses:
+  Yes: 0
+  No: 1
+Patrols reported:
+  Yes: 0
+  No: 1
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  Gun crime:
+    Frequencies: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  Assault:
+    Frequencies: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  Mugging:
+    Frequencies: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  Knife crime:
+    Frequencies: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+Number of surveyed people: 1
+Safety perception per daytime:
+  7am:
+    Frequencies: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  11pm:
+    Frequencies: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+    Average: 4.0
+  2pm:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+Important things for safety:
+  Area monitored by police: 1
+  Other people nearby: 0
+  Knowledge of the area: 1
+  Well lit area: 0
+  Alarms: 1
+  Pleasant environment: 1
+  Close to a main road: 0
+  Gardens and open space: 0
+
+Neighborhood: Costa del Este
+Crime witnesses:
+  Yes: 3
+  No: 6
+Patrols reported:
+  Yes: 8
+  No: 1
+Safety perception per crime:
+  Burglary:
+    Frequencies: [1, 5, 1, 2, 0, 0, 0, 0, 0, 0]
+    Average: 2.44444444444
+  Gun crime:
+    Frequencies: [0, 3, 5, 0, 1, 0, 0, 0, 0, 0]
+    Average: 2.88888888889
+  Assault:
+    Frequencies: [0, 3, 4, 1, 1, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Mugging:
+    Frequencies: [2, 4, 1, 2, 0, 0, 0, 0, 0, 0]
+    Average: 2.33333333333
+  Knife crime:
+    Frequencies: [0, 3, 2, 3, 1, 0, 0, 0, 0, 0]
+    Average: 3.22222222222
+Number of surveyed people: 9
+Safety perception per daytime:
+  7am:
+    Frequencies: [6, 1, 2, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.55555555556
+  11pm:
+    Frequencies: [2, 0, 1, 1, 2, 1, 0, 2, 0, 0]
+    Average: 4.55555555556
+  2pm:
+    Frequencies: [5, 2, 1, 0, 1, 0, 0, 0, 0, 0]
+    Average: 1.88888888889
+Important things for safety:
+  Area monitored by police: 8
+  Other people nearby: 5
+  Knowledge of the area: 8
+  Well lit area: 3
+  Alarms: 4
+  Pleasant environment: 2
+  Close to a main road: 3
+  Gardens and open space: 2
+
+Neighborhood: Bariloche
+Crime witnesses:
+  Yes: 0
+  No: 3
+Patrols reported:
+  Yes: 1
+  No: 2
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 0, 2, 0, 1, 0, 0, 0, 0, 0]
+    Average: 3.66666666667
+  Gun crime:
+    Frequencies: [0, 1, 1, 0, 1, 0, 0, 0, 0, 0]
+    Average: 3.33333333333
+  Assault:
+    Frequencies: [0, 1, 0, 1, 1, 0, 0, 0, 0, 0]
+    Average: 3.66666666667
+  Mugging:
+    Frequencies: [0, 1, 1, 0, 1, 0, 0, 0, 0, 0]
+    Average: 3.33333333333
+  Knife crime:
+    Frequencies: [0, 2, 0, 0, 1, 0, 0, 0, 0, 0]
+    Average: 3.0
+Number of surveyed people: 3
+Safety perception per daytime:
+  7am:
+    Frequencies: [1, 0, 0, 0, 0, 0, 1, 1, 0, 0]
+    Average: 5.33333333333
+  11pm:
+    Frequencies: [1, 0, 0, 0, 2, 0, 0, 0, 0, 0]
+    Average: 3.66666666667
+  2pm:
+    Frequencies: [1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+    Average: 3.33333333333
+Important things for safety:
+  Area monitored by police: 3
+  Other people nearby: 1
+  Knowledge of the area: 0
+  Well lit area: 0
+  Alarms: 2
+  Pleasant environment: 0
+  Close to a main road: 0
+  Gardens and open space: 0
+
+Neighborhood: Bella Vista
+Crime witnesses:
+  Yes: 4
+  No: 6
+Patrols reported:
+  Yes: 9
+  No: 1
+Safety perception per crime:
+  Burglary:
+    Frequencies: [1, 2, 5, 1, 1, 0, 0, 0, 0, 0]
+    Average: 2.9
+  Gun crime:
+    Frequencies: [1, 4, 4, 0, 1, 0, 0, 0, 0, 0]
+    Average: 2.6
+  Assault:
+    Frequencies: [1, 4, 4, 0, 1, 0, 0, 0, 0, 0]
+    Average: 2.6
+  Mugging:
+    Frequencies: [0, 3, 5, 1, 1, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Knife crime:
+    Frequencies: [2, 1, 3, 2, 2, 0, 0, 0, 0, 0]
+    Average: 3.1
+Number of surveyed people: 10
+Safety perception per daytime:
+  7am:
+    Frequencies: [3, 1, 2, 1, 1, 0, 1, 0, 0, 1]
+    Average: 3.7
+  11pm:
+    Frequencies: [0, 0, 1, 2, 3, 0, 1, 0, 1, 2]
+    Average: 6.2
+  2pm:
+    Frequencies: [3, 2, 0, 1, 2, 0, 0, 2, 0, 0]
+    Average: 3.7
+Important things for safety:
+  Area monitored by police: 10
+  Other people nearby: 6
+  Knowledge of the area: 8
+  Well lit area: 7
+  Alarms: 5
+  Pleasant environment: 2
+  Close to a main road: 6
+  Gardens and open space: 0
+
+Neighborhood: Arraijan
+Crime witnesses:
+  Yes: 3
+  No: 3
+Patrols reported:
+  Yes: 5
+  No: 1
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 0, 3, 2, 1, 0, 0, 0, 0, 0]
+    Average: 3.66666666667
+  Gun crime:
+    Frequencies: [0, 1, 2, 1, 2, 0, 0, 0, 0, 0]
+    Average: 3.66666666667
+  Assault:
+    Frequencies: [0, 0, 3, 1, 2, 0, 0, 0, 0, 0]
+    Average: 3.83333333333
+  Mugging:
+    Frequencies: [0, 0, 2, 0, 2, 0, 0, 1, 0, 1]
+    Average: 5.66666666667
+  Knife crime:
+    Frequencies: [0, 3, 1, 1, 1, 0, 0, 0, 0, 0]
+    Average: 3.0
+Number of surveyed people: 6
+Safety perception per daytime:
+  7am:
+    Frequencies: [1, 0, 3, 1, 1, 0, 0, 0, 0, 0]
+    Average: 3.16666666667
+  11pm:
+    Frequencies: [1, 0, 0, 0, 2, 0, 1, 1, 0, 1]
+    Average: 6.0
+  2pm:
+    Frequencies: [2, 1, 2, 0, 1, 0, 0, 0, 0, 0]
+    Average: 2.5
+Important things for safety:
+  Area monitored by police: 4
+  Other people nearby: 2
+  Knowledge of the area: 2
+  Well lit area: 1
+  Alarms: 0
+  Pleasant environment: 0
+  Close to a main road: 0
+  Gardens and open space: 0
+
+Neighborhood: Avenida Balboa
+Crime witnesses:
+  Yes: 1
+  No: 4
+Patrols reported:
+  Yes: 4
+  No: 1
+Safety perception per crime:
+  Burglary:
+    Frequencies: [1, 3, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  Gun crime:
+    Frequencies: [1, 3, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  Assault:
+    Frequencies: [3, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.4
+  Mugging:
+    Frequencies: [0, 2, 3, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.6
+  Knife crime:
+    Frequencies: [2, 1, 0, 2, 0, 0, 0, 0, 0, 0]
+    Average: 2.4
+Number of surveyed people: 5
+Safety perception per daytime:
+  7am:
+    Frequencies: [3, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.6
+  11pm:
+    Frequencies: [0, 0, 0, 1, 3, 0, 1, 0, 0, 0]
+    Average: 5.2
+  2pm:
+    Frequencies: [2, 2, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.8
+Important things for safety:
+  Area monitored by police: 3
+  Other people nearby: 2
+  Knowledge of the area: 3
+  Well lit area: 3
+  Alarms: 0
+  Pleasant environment: 3
+  Close to a main road: 1
+  Gardens and open space: 0
+
+Neighborhood: Punta Pacifica
+Crime witnesses:
+  Yes: 1
+  No: 3
+Patrols reported:
+  Yes: 4
+  No: 0
+Safety perception per crime:
+  Burglary:
+    Frequencies: [1, 2, 0, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.25
+  Gun crime:
+    Frequencies: [0, 1, 2, 0, 1, 0, 0, 0, 0, 0]
+    Average: 3.25
+  Assault:
+    Frequencies: [1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.5
+  Mugging:
+    Frequencies: [1, 0, 2, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.75
+  Knife crime:
+    Frequencies: [0, 2, 0, 1, 1, 0, 0, 0, 0, 0]
+    Average: 3.25
+Number of surveyed people: 4
+Safety perception per daytime:
+  7am:
+    Frequencies: [3, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+    Average: 1.75
+  11pm:
+    Frequencies: [0, 0, 1, 1, 1, 0, 0, 1, 0, 0]
+    Average: 5.0
+  2pm:
+    Frequencies: [1, 2, 0, 0, 0, 0, 0, 0, 1, 0]
+    Average: 3.5
+Important things for safety:
+  Area monitored by police: 3
+  Other people nearby: 4
+  Knowledge of the area: 3
+  Well lit area: 1
+  Alarms: 1
+  Pleasant environment: 1
+  Close to a main road: 2
+  Gardens and open space: 0
+
+Neighborhood: Ancon
+Crime witnesses:
+  Yes: 4
+  No: 5
+Patrols reported:
+  Yes: 9
+  No: 0
+Safety perception per crime:
+  Burglary:
+    Frequencies: [1, 1, 5, 1, 1, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Gun crime:
+    Frequencies: [0, 3, 5, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.77777777778
+  Assault:
+    Frequencies: [0, 5, 3, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.55555555556
+  Mugging:
+    Frequencies: [0, 2, 5, 0, 1, 1, 0, 0, 0, 0]
+    Average: 3.33333333333
+  Knife crime:
+    Frequencies: [1, 3, 4, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.55555555556
+Number of surveyed people: 9
+Safety perception per daytime:
+  7am:
+    Frequencies: [0, 4, 0, 1, 2, 0, 0, 1, 0, 1]
+    Average: 4.44444444444
+  11pm:
+    Frequencies: [0, 1, 0, 2, 1, 1, 1, 1, 0, 2]
+    Average: 6.22222222222
+  2pm:
+    Frequencies: [1, 4, 1, 0, 2, 1, 0, 0, 0, 0]
+    Average: 3.11111111111
+Important things for safety:
+  Area monitored by police: 8
+  Other people nearby: 3
+  Knowledge of the area: 6
+  Well lit area: 6
+  Alarms: 2
+  Pleasant environment: 5
+  Close to a main road: 4
+  Gardens and open space: 3
+
+Neighborhood: Altos del Golf
+Crime witnesses:
+  Yes: 1
+  No: 1
+Patrols reported:
+  Yes: 2
+  No: 0
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.5
+  Gun crime:
+    Frequencies: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.5
+  Assault:
+    Frequencies: [0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.5
+  Mugging:
+    Frequencies: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.5
+  Knife crime:
+    Frequencies: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.5
+Number of surveyed people: 2
+Safety perception per daytime:
+  7am:
+    Frequencies: [1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+    Average: 5.0
+  11pm:
+    Frequencies: [1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+    Average: 5.0
+  2pm:
+    Frequencies: [1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+    Average: 5.0
+Important things for safety:
+  Area monitored by police: 0
+  Other people nearby: 1
+  Knowledge of the area: 1
+  Well lit area: 0
+  Alarms: 0
+  Pleasant environment: 0
+  Close to a main road: 0
+  Gardens and open space: 1
+
+Neighborhood: Chorillo
+Crime witnesses:
+  Yes: 1
+  No: 0
+Patrols reported:
+  Yes: 1
+  No: 0
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+    Average: 4.0
+  Gun crime:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Assault:
+    Frequencies: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+  Mugging:
+    Frequencies: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.0
+  Knife crime:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+Number of surveyed people: 1
+Safety perception per daytime:
+  7am:
+    Frequencies: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+    Average: 5.0
+  11pm:
+    Frequencies: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+    Average: 6.0
+  2pm:
+    Frequencies: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.0
+Important things for safety:
+  Area monitored by police: 1
+  Other people nearby: 0
+  Knowledge of the area: 0
+  Well lit area: 0
+  Alarms: 0
+  Pleasant environment: 0
+  Close to a main road: 0
+  Gardens and open space: 0
+
+Neighborhood: Albrook
+Crime witnesses:
+  Yes: 3
+  No: 8
+Patrols reported:
+  Yes: 9
+  No: 2
+Safety perception per crime:
+  Burglary:
+    Frequencies: [1, 3, 3, 1, 3, 0, 0, 0, 0, 0]
+    Average: 3.18181818182
+  Gun crime:
+    Frequencies: [2, 4, 3, 1, 1, 0, 0, 0, 0, 0]
+    Average: 2.54545454545
+  Assault:
+    Frequencies: [1, 2, 2, 5, 1, 0, 0, 0, 0, 0]
+    Average: 3.27272727273
+  Mugging:
+    Frequencies: [1, 3, 4, 2, 1, 0, 0, 0, 0, 0]
+    Average: 2.90909090909
+  Knife crime:
+    Frequencies: [2, 2, 5, 0, 2, 0, 0, 0, 0, 0]
+    Average: 2.81818181818
+Number of surveyed people: 11
+Safety perception per daytime:
+  7am:
+    Frequencies: [4, 2, 2, 2, 1, 0, 0, 0, 0, 0]
+    Average: 2.45454545455
+  11pm:
+    Frequencies: [0, 2, 0, 5, 1, 0, 0, 3, 0, 0]
+    Average: 4.81818181818
+  2pm:
+    Frequencies: [3, 2, 2, 2, 1, 0, 0, 0, 1, 0]
+    Average: 3.18181818182
+Important things for safety:
+  Area monitored by police: 8
+  Other people nearby: 8
+  Knowledge of the area: 5
+  Well lit area: 7
+  Alarms: 5
+  Pleasant environment: 2
+  Close to a main road: 3
+  Gardens and open space: 2
+
+Neighborhood: Corozal
+Crime witnesses:
+  Yes: 0
+  No: 2
+Patrols reported:
+  Yes: 2
+  No: 0
+Safety perception per crime:
+  Burglary:
+    Frequencies: [1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Gun crime:
+    Frequencies: [1, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.5
+  Assault:
+    Frequencies: [0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Mugging:
+    Frequencies: [0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+    Average: 4.0
+  Knife crime:
+    Frequencies: [1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+Number of surveyed people: 2
+Safety perception per daytime:
+  7am:
+    Frequencies: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.5
+  11pm:
+    Frequencies: [0, 0, 0, 0, 0, 0, 1, 0, 0, 1]
+    Average: 8.5
+  2pm:
+    Frequencies: [0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+    Average: 4.5
+Important things for safety:
+  Area monitored by police: 1
+  Other people nearby: 0
+  Knowledge of the area: 0
+  Well lit area: 0
+  Alarms: 0
+  Pleasant environment: 1
+  Close to a main road: 0
+  Gardens and open space: 0
+
+Neighborhood: Curundu
+Crime witnesses:
+  Yes: 1
+  No: 0
+Patrols reported:
+  Yes: 1
+  No: 0
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+    Average: 5.0
+  Gun crime:
+    Frequencies: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+    Average: 5.0
+  Assault:
+    Frequencies: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+    Average: 5.0
+  Mugging:
+    Frequencies: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+    Average: 5.0
+  Knife crime:
+    Frequencies: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+    Average: 5.0
+Number of surveyed people: 1
+Safety perception per daytime:
+  7am:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  11pm:
+    Frequencies: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+    Average: 10.0
+  2pm:
+    Frequencies: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+    Average: 7.0
+Important things for safety:
+  Area monitored by police: 1
+  Other people nearby: 0
+  Knowledge of the area: 0
+  Well lit area: 0
+  Alarms: 0
+  Pleasant environment: 0
+  Close to a main road: 0
+  Gardens and open space: 0
+
+Neighborhood: Avenida Espana
+Crime witnesses:
+  Yes: 0
+  No: 1
+Patrols reported:
+  Yes: 1
+  No: 0
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Gun crime:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Assault:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Mugging:
+    Frequencies: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Knife crime:
+    Frequencies: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.0
+Number of surveyed people: 1
+Safety perception per daytime:
+  7am:
+    Frequencies: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.0
+  11pm:
+    Frequencies: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.0
+  2pm:
+    Frequencies: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.0
+Important things for safety:
+  Area monitored by police: 0
+  Other people nearby: 0
+  Knowledge of the area: 1
+  Well lit area: 1
+  Alarms: 0
+  Pleasant environment: 0
+  Close to a main road: 0
+  Gardens and open space: 0
+
+Neighborhood: Paitilla
+Crime witnesses:
+  Yes: 1
+  No: 4
+Patrols reported:
+  Yes: 5
+  No: 0
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 4, 0, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.4
+  Gun crime:
+    Frequencies: [1, 0, 1, 2, 1, 0, 0, 0, 0, 0]
+    Average: 3.4
+  Assault:
+    Frequencies: [0, 3, 1, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.6
+  Mugging:
+    Frequencies: [1, 3, 0, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.2
+  Knife crime:
+    Frequencies: [0, 2, 2, 0, 1, 0, 0, 0, 0, 0]
+    Average: 3.0
+Number of surveyed people: 5
+Safety perception per daytime:
+  7am:
+    Frequencies: [2, 2, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 1.8
+  11pm:
+    Frequencies: [0, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+    Average: 4.0
+  2pm:
+    Frequencies: [2, 2, 0, 1, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+Important things for safety:
+  Area monitored by police: 1
+  Other people nearby: 3
+  Knowledge of the area: 4
+  Well lit area: 2
+  Alarms: 1
+  Pleasant environment: 2
+  Close to a main road: 0
+  Gardens and open space: 1
+
+Neighborhood: Dorado Springs
+Crime witnesses:
+  Yes: 0
+  No: 2
+Patrols reported:
+  Yes: 2
+  No: 0
+Safety perception per crime:
+  Burglary:
+    Frequencies: [0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+    Average: 4.5
+  Gun crime:
+    Frequencies: [1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Assault:
+    Frequencies: [0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+    Average: 3.0
+  Mugging:
+    Frequencies: [0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+    Average: 3.5
+  Knife crime:
+    Frequencies: [1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+    Average: 3.0
+Number of surveyed people: 2
+Safety perception per daytime:
+  7am:
+    Frequencies: [0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.5
+  11pm:
+    Frequencies: [0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+    Average: 3.5
+  2pm:
+    Frequencies: [0, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+    Average: 2.0
+Important things for safety:
+  Area monitored by police: 2
+  Other people nearby: 1
+  Knowledge of the area: 1
+  Well lit area: 1
+  Alarms: 1
+  Pleasant environment: 1
+  Close to a main road: 2
+  Gardens and open space: 0
