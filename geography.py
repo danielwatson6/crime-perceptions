@@ -61,9 +61,6 @@ for p in survey_results:
   for i in p[3].split(', '):
     survey_analysis[n]['Important things for safety'][i] += 1
   for i in range(5):
-    print crimes[i]
-    print survey_analysis[n]['Safety perception per crime'][crimes[i]]
-    print ''
     survey_analysis[n]['Safety perception per crime'][crimes[i]]['Frequencies'][int(p[i+4])-1] += 1
   for i in range(3):
     survey_analysis[n]['Safety perception per daytime'][times[i]]['Frequencies'][int(p[i+9])-1] += 1
