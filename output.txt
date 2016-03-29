@@ -2239,28 +2239,3 @@ Important things for safety:
 	Pleasant environment: 1
 	Close to a main road: 2
 	Gardens and open space: 0
-
-Panama Pacifico: 5
-Chorrillo: 7
-Panama Viejo: 3
-San Francisco: 8
-San Miguelito: 4
-La Alameda: 1
-Clayton: 31
-Arraijan : 1
-Atlapa: 2
-Costa del Este: 10
-Bariloche: 3
-Bella Vista: 10
-Arraijan: 6
-Avenida Balboa: 5
-Punta Pacifica: 4
-Ancon: 9
-Punta Pacifica : 1
-Altos del Golf: 2
-Albrook: 11
-Corozal: 2
-Curundu: 1
-Avenida Espana: 1
-Paitilla: 5
-Dorado Springs: 2
