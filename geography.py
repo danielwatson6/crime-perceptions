@@ -86,9 +86,13 @@ for n in survey_analysis:
       time_avg_count += t['Frequencies'][f]
     record('daytime', k, time_avg, time_avg_count)
 
-# Output
-for neighborhood, props in survey_analysis.iteritems():
-  print "Neighborhood: " + neighborhood
+### Enable or disable output options by enclosing
+### the scripts within triple quotes.
+
+"""
+# Complete analysis
+for n, props in survey_analysis.iteritems():
+  print "Neighborhood: " + n
   for prop, value in props.iteritems():
     if type(value) in [int, float]:
       print prop + ": " + str(value)
@@ -102,3 +106,72 @@ for neighborhood, props in survey_analysis.iteritems():
         else:
           print "\t{k}: {v}".format(k=k,v=v)
   print '' # newline
+"""
+
+"""
+# Crime perception averages
+import numpy
+crimes_avg = numpy.zeros(5)
+times_avg = numpy.zeros(3)
+for n, props in survey_analysis.iteritems():
+  for i in range(5):
+    crimes_avg[i] += survey_analysis[n]['Safety perception per crime'][crimes[i]]['Average']
+  for i in range(3):
+    times_avg[i] += survey_analysis[n]['Safety perception per daytime'][times[i]]['Average']
+
+print list(crimes_avg / 34.)
+print list(times_avg / 34.)
+"""
+
+"""
+# Percentages of choices correlated with safety
+freqs = {
+  'Well lit area': 0,
+  'Knowledge of the area': 0,
+  'Close to a main road': 0,
+  'Alarms': 0,
+  'Area monitored by police': 0,
+  'Pleasant environment': 0,
+  'Gardens and open space': 0,
+  'Other people nearby': 0
+}
+for n, props in survey_analysis.iteritems():
+  for k, count in props['Important things for safety'].iteritems():
+    freqs[k] += 100 * count / 134.
+
+print freqs
+"""
+
+# Safety based on crime witnessing and patrolling
+import numpy
+yes_w = numpy.zeros(3)
+no_w = numpy.zeros(3)
+w_count = 0.
+yes_p = numpy.zeros(3)
+no_p = numpy.zeros(3)
+p_count = 0.
+
+for p in survey_results:
+  if p[2] == 'Yes':
+    w_count += 1.
+    for i in range(3):
+      yes_w[i] += int(p[i+9])
+  else:
+    for i in range(3):
+      no_w[i] += int(p[i+9])
+  if p[1] == 'Yes':
+    p_count += 1.
+    for i in range(3):
+      yes_p[i] += int(p[i+9])
+  else:
+    for i in range(3):
+      no_p[i] += int(p[i+9])
+
+print 100 * w_count / 134.
+print 100 * (134. - w_count) / 134.
+print list(yes_w / w_count)
+print list(no_w / (134. - w_count))
+print 100 * p_count / 134.
+print 100 * (134. - p_count) / 134.
+print list(yes_p / p_count)
+print list(no_p / (134. - p_count))
